@@ -4,13 +4,21 @@ Backend Assesment - Senior
 2. Berdasarkan analisa saya, seharusnya setiap transaksi yang dilakukan pada event promo 12.12 dapat memberikan informasi secara langsung tentang stok barang yang tersedia saat itu juga.
 3. Secara konsep teknisnya sebagai berikut:
 - Format API contohnya: 
+
   {
+  
     status: respon kode seperti (200, 500)
+    
     pesan: respon pesan teks ('sukses', 'gagal')
+    
     data:[]
+    
   }
+  
 - Kode responnya sebagai berikut:
+
   200 = sukses atau berhasil
+  
   500 = gagal atau data tidak ditemukan
 
 - Database schema dan desain entity:
