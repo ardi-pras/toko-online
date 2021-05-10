@@ -54,4 +54,6 @@ Backend Assesment - Senior
 
 6. Import file .sql database toko online
 
-7. Buka postman dan jalan url yang ada pada "Desain API endpoint"
+7. Install aplikasi postman
+
+8. Buka postman dan jalankan url yang ada pada "Desain API endpoint"
