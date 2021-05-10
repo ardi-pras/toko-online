@@ -28,3 +28,30 @@ Backend Assesment - Senior
 
 
 - Desain API endpoint:
+
+
+- Spesifikasi kebutuhan menjalankan aplikasi:
+
+1. WampServer 3.1.3 (Apache 2.4.x , PHP 5.6.x , MySQL 5.7.x)
+
+2. Sistem Operasi minimal windows 7
+
+3. Postman
+
+4. Browser Google Chrome, firefox, atau yang lainnya.
+
+- Cara menjalankan aplikasi:
+
+1. Instal WampServer 3.1.3
+
+2. Download dan ekstrak aplikasi toko online
+
+3. Letakkan file toko online pada folder ...\wamp64\www
+
+4. Buka phpmyadmin dari browser baik google chrome atau firefox
+
+5. Ketikkan localhost/phpmyadmin
+
+6. Import file .sql database toko online
+
+7. Buka postman dan jalan url yang ada pada "Desain API endpoint"
